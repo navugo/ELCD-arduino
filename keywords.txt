@@ -1,0 +1,12 @@
+Elcd	KEYWORD1
+init	KEYWORD2
+clear	KEYWORD2
+locate	KEYWORD2
+csroff	KEYWORD2
+csrfc	KEYWORD2
+csron	KEYWORD2
+csrcb	KEYWORD2
+print	KEYWORD2
+println	KEYWORD2
+mkchar	KEYWORD2
+logging	KEYWORD2
